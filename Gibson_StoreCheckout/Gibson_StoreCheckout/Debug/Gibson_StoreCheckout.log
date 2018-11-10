@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+c:\users\denze_000\documents\visual studio 2015\projects\gibson_storecheckout\gibson_storecheckout\functions.cpp(55): warning C4101: 'e': unreferenced local variable
+c:\users\denze_000\documents\visual studio 2015\projects\gibson_storecheckout\gibson_storecheckout\functions.cpp(212): warning C4101: 'e': unreferenced local variable
+  Gibson_StoreCheckout.vcxproj -> C:\Users\denze_000\Documents\Visual Studio 2015\Projects\Gibson_StoreCheckout\Debug\Gibson_StoreCheckout.exe
+  Gibson_StoreCheckout.vcxproj -> C:\Users\denze_000\Documents\Visual Studio 2015\Projects\Gibson_StoreCheckout\Debug\Gibson_StoreCheckout.pdb (Full PDB)
